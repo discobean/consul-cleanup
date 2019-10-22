@@ -12,7 +12,7 @@ setup(
         'packaging==16.8',
         'pyparsing==2.2.0',
         'python-consul==0.7.0',
-        'requests==2.13.0',
+        'requests==2.20.0',
         'six==1.10.0' ],
     keywords='ebs ebspin ebs-pin'
 )
